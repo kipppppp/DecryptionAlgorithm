@@ -14,7 +14,7 @@ The overall program is broken into 4 header files and 4 C++ files for modulariza
 <h2>Program Walk-Through:</h2>
 
 <p align="center">
-View the plain text, encryption key, encyrpted text, and decrypted text using known key <br/>
+View the plain text, encryption key, encrypted text, and decrypted text using known key <br/>
 <img src="https://i.imgur.com/UI56ueg.png" height="50%" width="50%" alt="Launch program"/>
 <br />
 <br />
