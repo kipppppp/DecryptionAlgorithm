@@ -3,7 +3,7 @@
 <h2>Description</h2>
 This project allows the user to encrypt a string. Utilizes overloaded constructors to assign random keys, or allows the user to specify the amount of keys (1-20) and the specific key values (1-126). The decryption algorithm utilizes brute force to iterate through key values, scanning the potentially decrypted text for the occurence of the 5 character string " the ". If found, the message is displayed to the user with the current key values. The user has the option to continue searching through keys if the message is not correctly decrypted.
 
-The overall program is broken into 4 header files and 4 C++ files for modularization. Because this project was completed for course work, I am unable to <ins>publically</ins> share the source code.
+The overall program is broken into 4 header files and 4 C++ files for modularization. Because this project was completed for course work, I am unable to <ins>publicly</ins> share the source code.
 <br />
 
 
